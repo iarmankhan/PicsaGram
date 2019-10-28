@@ -22,4 +22,5 @@ Homestead.json
 .env.backup
 .phpunit.result.cache
 yarn-error.log
-
+_ide_helper.php
+.phpstorm.meta.php
